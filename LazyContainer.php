@@ -4,7 +4,7 @@ namespace XTC\Container;
 class LazyContainer implements LazyContainerInterface
 {
     /**
-     * 
+     *
      *
      * @var callable
      */
