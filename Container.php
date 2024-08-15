@@ -39,7 +39,7 @@ class Container
     use ContainerCallStackTrait;
     use ContainerPreferenceTrait;
     use ContainerAttributesTrait;
-    
+
     use ConfigAwareTrait;
     use ServiceRepositoryAwareTrait;
     use LoggerAwareTrait;
